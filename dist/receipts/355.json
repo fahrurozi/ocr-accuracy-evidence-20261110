@@ -1,6 +1,6 @@
 {
   "receipt_id": 355,
-  "image_url": "https://ocr-accuracy-evidence.weedybottle2.chatgpt.site/images/355.png",
+  "image_url": "https://raw.githubusercontent.com/fahrurozi/ocr-accuracy-evidence-20261110/main/dist/images/355.png",
   "expected_total": "92000",
   "predicted_total": "28000",
   "raw_ocr": {
@@ -1253,7 +1253,7 @@
   "root_cause": "Expected numeric value survives merge; inspect pairing, labels and annotation semantics.",
   "status": "provisional automated evidence; visual review pending",
   "seconds": 1.8305,
-  "evidence_url": "https://ocr-accuracy-evidence.weedybottle2.chatgpt.site/receipts/355.json",
+  "evidence_url": "https://raw.githubusercontent.com/fahrurozi/ocr-accuracy-evidence-20261110/main/dist/receipts/355.json",
   "source": {
     "dataset": "CORD v2 by NAVER CLOVA",
     "license": "CC BY 4.0",

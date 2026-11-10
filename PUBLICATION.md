@@ -1,0 +1,1 @@
+Public evidence via GitHub raw URLs. CORD v2 by NAVER CLOVA, CC BY4.0. Original images preserved. Classifications provisional. Only sanitized publication artifacts; no credentials, absolute local paths or private network addresses.
